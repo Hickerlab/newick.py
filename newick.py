@@ -3,7 +3,7 @@
 '''
 Script to convert oriented trees to newick.
 
-Usage: python newick.py -b -p [-1,3,3,6,6,6,0] -t [-1,0.0,0.0,100.0,0.0,0.0,200.0]
+Usage: python newick.py -b -p [-1,6,6,6,7,7,8,8,0] -t [-1,0.0,0.0,0.0,0.0,0.0,1.0,2.0,4.0]
 Author: Tyler Joseph
 Updated: July 3, 2015
 '''
